@@ -69,3 +69,7 @@
     grid-template-columns: repeat(auto-fill, minmax(100%, 1fr));
   }
 }
+
+input {
+  margin-bottom: 30px;
+}
